@@ -9,7 +9,7 @@ private:
 public:
     // Konstruktor, der das Alter der Person initialisiert
     Person(int a) {
-        alter = a;
+        alter = ac;
     }
     // Methode zum Ändern des Alters der Person
     void setAlter(int a) {
