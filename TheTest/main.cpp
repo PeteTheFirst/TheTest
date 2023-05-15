@@ -13,7 +13,7 @@ public:
     }
     // Methode zum Ändern des Alters der Person
     void setAlter(int a) {
-        alter = a;
+        alter = ac;
     }
     // Methode zum Abrufen des Alters der Person
     int getAlter() {
